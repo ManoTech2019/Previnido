@@ -1,0 +1,23 @@
+{
+    "name": "previnido",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "start": "node app.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ManoTech2019/previnido.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/ManoTech2019/previnido/issues"
+    },
+    "homepage": "https://github.com/ManoTech2019/previnido#readme",
+    "dependencies": {
+      "express": "^4.16.3"
+    }
+  }
+  
